@@ -1,4 +1,33 @@
 # 👋 Hi, my name is **Aryan Rana**!
+Hello! I'm a student with a strong interest in game development. I'm currently learning programming with C and C++, and building a foundation to create games in the future. While I don’t have professional experience yet, I’m actively studying, building small practice projects, and exploring how game engines work.
+
+🌱 Currently Learning:
+
+Programming with C and C++
+
+Basics of game development
+
+Fundamentals of computer graphics and game mechanics
+
+Git and GitHub for version control
+
+💡 Goals:
+
+Learn popular game engines like Unity and Unreal Engine
+
+Develop simple 2D/3D games as personal projects
+
+Join a game dev community and collaborate on indie projects
+
+Become a professional game developer
+
+🛠️ Tools I'm Exploring:
+
+C, C++
+
+Git & GitHub
+
+Looking to start with Unity (C#) and Unreal Engine (C++)
 
 🚀 I'm a passionate developer always eager to learn and build amazing things.  
 💻 I enjoy working with modern technologies and contributing to open-source projects.  
