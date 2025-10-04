@@ -27,7 +27,7 @@ C, C++
 
 Git & GitHub
 
-Looking to start with Unity (C#) and Unreal Engine (C++)
+Looking to start wit Unreal Engine (C++)
 
 🚀 I'm a passionate developer always eager to learn and build amazing things.  
 💻 I enjoy working with modern technologies and contributing to open-source projects.  
